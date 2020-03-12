@@ -2,19 +2,17 @@
 title: About Me
 subtitle: This is a short page about me and my work
 img_path: images/about.jpg
+layout: page
 menu:
   main:
     name: About
     weight: 2
-layout: page
+
 ---
+I am a seasoned expert in my field, with several years experience behind me. I have a proven success record, with focus on strategic projects and helping to build successful, effective teams that are motivated and goal-oriented. I’ve been working in my field for several years.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+> The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I am passionate about what I do, and it shows in my work and proven track record. Want to learn more? Follow me on my social channels, or contact me directly - I’d love to hear from you! I am a passionate computer science, tech-savvy, full time profesional trader from Indonesia. I am interested in open source projects and high-level programming in Cloud Computing, Distributed Systems and Machine Learning.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+_Thank You for reading!_
