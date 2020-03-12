@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: RafikCMS
-    tagline: CMS karya wong Gresik
+    tagline: CMS karya wong Gresik !
     logo_img: "/images/RAFIKCMS white.png"
     bg_img: "/images/photo_2019-09-21_11-42-57.jpg"
     has_nav: true
