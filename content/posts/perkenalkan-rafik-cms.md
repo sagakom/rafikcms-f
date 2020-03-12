@@ -4,7 +4,7 @@ date = 2020-03-11T17:00:00Z
 excerpt = "Rafikcms is simpel"
 hide_header = false
 layout = "post"
-subtitle = ""
+subtitle = "CMS pertama kreasi Wong Gresik Asli"
 thumb_img_path = "/images/photo_2019-09-21_11-42-57.jpg"
 title = "Perkenalkan RAFIK CMS"
 
