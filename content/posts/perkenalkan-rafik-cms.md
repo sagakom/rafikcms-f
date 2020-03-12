@@ -6,7 +6,7 @@ hide_header = false
 layout = "post"
 subtitle = ""
 thumb_img_path = "/images/photo_2019-09-21_11-42-57.jpg"
-title = "Perkenalkan RAFIK cms "
+title = "Perkenalkan RAFIK CMS"
 
 +++
 I am a seasoned expert in my field, with several years experience behind me. 
