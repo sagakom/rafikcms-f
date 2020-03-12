@@ -7,7 +7,7 @@ params:
     title: Fjord
     tagline: Minimal and clean blog theme
     logo_img: images/logo.png
-    bg_img: images/header-bg.jpg
+    bg_img: "/images/photo_2019-09-21_11-42-57.jpg"
     has_nav: true
     has_social: true
   footer:
