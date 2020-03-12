@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/RAFIKCMS white.png"
 date = 2020-03-11T17:00:00Z
-draft = true
 excerpt = "Rafikcms is simpel"
 hide_header = false
 layout = "post"
