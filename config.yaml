@@ -11,7 +11,7 @@ params:
     has_nav: true
     has_social: true
   footer:
-    content: "&copy; All rights reserved."
+    content: "&copy; All rights reserved. 2020."
     links:
     - text: Made with RAFIKCMS
       url: https://cepatbuat.website
