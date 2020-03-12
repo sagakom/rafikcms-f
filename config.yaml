@@ -13,8 +13,8 @@ params:
   footer:
     content: "&copy; All rights reserved."
     links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: Made with RAFIKCMS
+      url: https://cepatbuat.website
       new_window: true
 disableKinds:
 - RSS
