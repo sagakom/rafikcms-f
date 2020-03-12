@@ -17,6 +17,7 @@ fields:
   label: Image
   description: The image shown on the left side. If no image added, the default image
     specified in Header Configuration is displayed.
+  default: "/images/photo_2019-09-21_11-42-57.jpg"
 - type: text
   name: layout
   label: Layout
