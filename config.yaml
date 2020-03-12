@@ -2,7 +2,7 @@
 title: RafikCMS f
 baseURL: "/"
 params:
-  palette: yellow
+  palette: blue
   header:
     title: RafikCMS
     tagline: CMS karya wong Gresik
